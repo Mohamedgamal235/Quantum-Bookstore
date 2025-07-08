@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace QuantumBookstore
 {
-    internal interface IShippingService
+    public interface IShippingService
     {
+        void Send(string address, string bookTitle);
     }
 }

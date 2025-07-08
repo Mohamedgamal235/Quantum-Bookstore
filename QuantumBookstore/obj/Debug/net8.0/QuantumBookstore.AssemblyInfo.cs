@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuantumBookstore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57b350b86aca14cc1a9a9173eb3c77a4a9a1e3a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuantumBookstore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuantumBookstore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

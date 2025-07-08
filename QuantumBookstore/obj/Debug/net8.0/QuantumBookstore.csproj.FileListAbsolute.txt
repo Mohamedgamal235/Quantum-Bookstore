@@ -1,0 +1,15 @@
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.AssemblyInfoInputs.cache
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.AssemblyInfo.cs
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.csproj.CoreCompileInputs.cache
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.sourcelink.json
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\bin\Debug\net8.0\QuantumBookstore.exe
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\bin\Debug\net8.0\QuantumBookstore.deps.json
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\bin\Debug\net8.0\QuantumBookstore.runtimeconfig.json
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\bin\Debug\net8.0\QuantumBookstore.dll
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\bin\Debug\net8.0\QuantumBookstore.pdb
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.dll
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\refint\QuantumBookstore.dll
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.pdb
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\QuantumBookstore.genruntimeconfig.cache
+E:\Github\Quantum-Bookstore\QuantumBookstore\QuantumBookstore\obj\Debug\net8.0\ref\QuantumBookstore.dll

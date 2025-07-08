@@ -21,7 +21,7 @@ namespace QuantumBookstore
             Price = price; 
         }
 
-        public abstract void Buy(string isbn , int quantity , string email , string address);
+        public abstract void Buy(int quantity , string email , string address);
         public abstract bool IsAvailable(int quantity);
 
     }
